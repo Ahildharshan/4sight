@@ -1,8 +1,1 @@
-yfinance
-pandas
-numpy
-scikit-learn
-keras
-matplotlib
-streamlit
-tensorflow
+
