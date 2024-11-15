@@ -4,3 +4,4 @@ pandas
 matplotlib
 prophet
 ta-lib
+pip install --upgrade
